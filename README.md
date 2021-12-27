@@ -1,2 +1,2 @@
-# generativearabicletterism
-Generative art using Arabic letters
+# Generative Arabic Letterism
+Generative asemic art using Arabic letters
